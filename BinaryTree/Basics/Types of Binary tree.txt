@@ -1,0 +1,27 @@
+
+1: Strict Binary Tree   :- if each node has either 2 children or no children
+
+      1
+    /   \
+   2     3
+  / \
+ 4   5
+
+2: Full Binary Tree     :- each none leaf node has two children and all leaf nodes are at same level
+
+      1
+    /   \
+   2     3
+  / \   / \
+ 4   5 6   7
+
+3: Complete Binary tree :- if all the levels are filled except the last level and the last will have all the nodes
+                           as left as possible
+
+      1
+    /   \
+   2     3
+  / \   / 
+ 4   5 6  
+
+                     

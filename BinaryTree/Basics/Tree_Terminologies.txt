@@ -1,0 +1,19 @@
+Binary Tree :- A tree will be a binary tree if each node has zero, one or two children
+
+eg :- BST,Heap Tree etc
+
+Terminologies
+-------------
+  root         :- node with no parent
+  edge         :- link between parent and child
+  Leaf         :- node with no children
+  Sibling      :- children of same parent
+  Ancestor     :- parent,grand-parent etc...
+Depth of node  :- no. of edges between root to that node
+height of node :- no. of edges between that node to that deepest node
+height of tree :- no. of edges from root node to the deepest node
+depth of tree  :- always be zero
+
+
+
+
